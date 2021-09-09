@@ -1,5 +1,5 @@
 ## Congratulation page
-![pic3](https://thumbnails-photos.amazon.com/v1/thumbnail/VHNeeFwEQMCPL5W3-P9mHA?viewBox=1522%2C1401&ownerId=A1IBMI3ZD4K8DQ&groupShareToken=n_MdfOAHQsWQf9gxlIgAUQ.o2ksN3I43GCl4syEq4sS4d)
+![pic3](https://thumbnails-photos.amazon.com/v1/thumbnail/pO3zximeSN6Wxq46rMy4hg?viewBox=1522%2C1401&ownerId=A1IBMI3ZD4K8DQ&groupShareToken=exlJi6SZTtKrLY83hB6X4A.IgGNO5H99xyUT6QiHtjumG)
 
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
