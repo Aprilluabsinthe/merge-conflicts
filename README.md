@@ -1,3 +1,6 @@
+## Congratulation page
+![pic3](https://thumbnails-photos.amazon.com/v1/thumbnail/VHNeeFwEQMCPL5W3-P9mHA?viewBox=1522%2C1401&ownerId=A1IBMI3ZD4K8DQ&groupShareToken=n_MdfOAHQsWQf9gxlIgAUQ.o2ksN3I43GCl4syEq4sS4d)
+
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
